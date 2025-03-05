@@ -3,5 +3,5 @@ opencv-python
 cvzone
 filterpy==1.4.5
 scikit-image
-lap==0.4.0
+lap
 # conda activate C:\open_cv_\env
