@@ -1,6 +1,6 @@
 import cv2 as cv
 import matplotlib.pyplot as plot
-img=cv.imread("picture\maxresdefault.jpg")
+img=cv.imread("../picture/maxresdefault.jpg")
 cv.imshow('orgi',img)
 plot.imshow(img)
 plot.show()
