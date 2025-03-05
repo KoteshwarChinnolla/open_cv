@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+cvzone
+filterpy==1.4.5
+scikit-image
+lap==0.4.0
+# conda activate C:\open_cv_\env
